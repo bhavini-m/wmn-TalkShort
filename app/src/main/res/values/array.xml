@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="research_options">
+        <item>
+            Google News
+        </item>
+        <item>
+            Google
+        </item>
+        <item>
+            Wikipedia
+        </item>
+        <item>
+            IMDb
+        </item>
+    </string-array>
+</resources>

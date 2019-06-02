@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TalkShort</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_article">Speech Summarization</string>
+    <string name="research_dialog_title">Research this term:</string>
+    <string name="research_dialog_positive">Search now!</string>
+    <string name="research_dialog_negative">Cancel</string>
+    <string name="edit_url_hint">Enter a URL </string>
+    <string name="summaries_title">Recent Summarizations</string>
+</resources>

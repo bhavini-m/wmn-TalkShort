@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wmn.com.example.TalkShort">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="wmn.com.example.TalkShort.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name="wmn.com.example.TalkShort.SummaryActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity
+            android:name="wmn.com.example.TalkShort.ArticleActivity"
+            android:label="@string/title_activity_article"
+            android:parentActivityName="wmn.com.example.TalkShort.SummaryActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wmn.com.example.TalkShort.SummaryActivity" />
+            <!-- Handle certain web intents -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!--                     Allow intent filter to apply to major news sources -->
+                <data
+                    android:host="*.cnn.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="http" />
+                <data
+                    android:host="*.cnn.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="https" />
+                <data
+                    android:host="*.huffpost.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="http" />
+                <data
+                    android:host="*.huffpost.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="https" />
+                <data
+                    android:host="*.nytimes.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="http" />
+                <data
+                    android:host="*.nytimes.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="https" />
+                <data
+                    android:host="*.reuters.com"
+                    android:pathPattern="article/..*"
+                    android:scheme="https" />
+                <data
+                    android:host="*.reuters.com"
+                    android:pathPattern="article/..*"
+                    android:scheme="http" />
+                <data
+                    android:host="*.washingtonpost.com"
+                    android:pathPattern="..*/..*"
+                    android:scheme="https" />
+                <data
+                    android:host="*.washingtonpost.com"
+                    android:pathPattern="..*/..*"
+                    android:scheme="http" />
+                <data
+                    android:host="*.theguardian.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="http" />
+                <data
+                    android:host="*.theguardian.com"
+                    android:pathPattern="..*/..*/..*/..*"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

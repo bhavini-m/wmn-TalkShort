@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_eb02d1df8ec60289258648ded7b23560dbfd6dff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_5cb57124070b16154825c0778384c08911e531bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\.gradle\caches\modules-2\files-2.1\org.apache.opennlp\opennlp-tools\1.6.0\e89fc5317497ee3ed0e6c48a72e4f280961a02b4\opennlp-tools-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e89fc5317497ee3ed0e6c48a72e4f280961a02b4">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\opennlp-tools-1.6.0_df78a3f85896483bfb600e4788780a7730615a69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_a9ae4c919736f89d6e81d07370d5af496f94740e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_f096617ec0d8c0f6584aeac43a896aae3d14d779.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_c92ff7151caacbcaad18778301639bac7f29b9b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a42feaa521488aa13cab33f3f8be6ce2e9d13585.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_2e5ca6e095bc11150c7dc8e6aa506386b8b0da39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_23048a1bc00523ada21f54da37cd72a7fbfaa207.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef5362ef793f9212afafc3a50c5839f650115ebd">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.sothree.slidinguppanel-library-3.3.0_248dea90526c8be1fce7edcd34c5261f76c39f1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_1e23ba4b1421920617b1041642a8ad6f01e4758e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\.gradle\caches\modules-2\files-2.1\org.jgrapht\jgrapht-core\0.9.1\872b4fd3a6d8a4f0bdfb0f6e26c4499e752ce39\jgrapht-core-0.9.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0872b4fd3a6d8a4f0bdfb0f6e26c4499e752ce39">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\jgrapht-core-0.9.1_dd14091106755e52b6c31b052010705c29d1e01a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\exploded-aar\org.apmem.tools\layouts\1.10\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7a9f96bfbb71dc928a5d01440d879ef17f3f2349">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\org.apmem.tools-layouts-1.10_fd891c1522454941e27932e3be83a36e820f0294.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darshee Machhar\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="C:\Users\Darshee Machhar\AndroidStudioProjects\Articleate-master\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3_0e0b0e3769079b102078eb2a03080b6d8f48c705.jar" />
+    </item>
+
+</items>

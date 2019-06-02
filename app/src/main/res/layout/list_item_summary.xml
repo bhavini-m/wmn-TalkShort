@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/list_item_summary_textview"
+    android:padding="16dp"
+    android:hint="Hello World!"
+    android:typeface="serif"
+    android:textStyle="normal"
+    android:textSize="14sp"
+    android:textIsSelectable="false"
+    android:theme="@style/AppTheme"
+    android:allowUndo="false">
+
+</TextView>
